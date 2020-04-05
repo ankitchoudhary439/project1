@@ -6,5 +6,9 @@ Pasta
 
 fry
 
+bean
+
+pizza
+
 
 Thank you
